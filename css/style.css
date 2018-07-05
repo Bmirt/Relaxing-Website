@@ -80,7 +80,7 @@ p {
 
 .site-description {
 	text-align: center;
-	color: #F6D200;
+	color: maroon;
 	font-size: 1.2em;
 	margin-top: -.8em;
 	font-style: italic;
@@ -88,7 +88,7 @@ p {
 
 .main-menu {
 	color: black;
-	background: #F6D200;
+	background: maroon;
 }
 
 .main-menu ul {
@@ -109,7 +109,7 @@ p {
 
 .main-menu li a:hover {
 	background-color: black;
-	color: #F6D200;
+	color: maroon;
 }
 
 @media screen and (min-width: 810px) {
@@ -157,7 +157,7 @@ p {
 }
 
 .post-content h2 {
-	background-color: #F6D200;
+	background-color: maroon;
 	color: black;
 	padding: 20px;
 	text-align: center;
@@ -296,7 +296,7 @@ p {
 }
 
 .download-rating {
-	background-color: #F6D200;
+	background-color: maroon;
 	padding: 1em 2em;
 	color: black;
 	font-size: .9em;
